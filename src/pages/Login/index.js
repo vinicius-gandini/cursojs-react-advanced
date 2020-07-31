@@ -11,6 +11,7 @@ export default function Login() {
         <small>Eae</small>
       </Title>
       <Paragrafo>fisdjgjksgjs kgskjdgsdjgs gskdgjsdk</Paragrafo>
+      <button type="button">Enviar</button>
     </Container>
   );
 }
